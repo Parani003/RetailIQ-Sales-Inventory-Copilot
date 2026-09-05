@@ -162,32 +162,6 @@ pytest
 
 ---
 
-## 🎬 5-Minute Demo Walkthrough
-
-1. **Scenario 1 — Executive Dashboard**:
-   - Open `http://localhost:8000`. Observe Executive KPI cards and the **Needs Attention Today** prioritized operational feed. Click **"Why am I seeing this?"** on Wireless Mouse to open the **Evidence Explorer** modal.
-
-2. **Scenario 2 — Stock-out Risk Query**:
-   - Switch to **AI Copilot Chat** tab. Click quick prompt **"What is running out?"**.
-   - Review structured answer, coverage calculations, and recommended replenishment actions.
-
-3. **Scenario 3 — Specific Product Risk & Evidence**:
-   - Ask **"Why is Wireless Mouse at Store A high risk?"**.
-   - Observe deterministic Python calculation breakdown: `Current Stock = 12 units ÷ 5.4 units/day = 2.2 days coverage (Below 3.0-day threshold)`.
-
-4. **Scenario 4 — Anomaly Spikes & Drops**:
-   - Ask **"Which products had unusual sales changes this month?"** or switch to the **Sales Anomalies** tab.
-   - Inspect non-overlapping 30-day baseline calculations (+800% spike on Mechanical Keyboard vs -85.7% drop on Organic Coffee Beans).
-
-5. **Scenario 5 — No-Hallucination Refusal**:
-   - Ask **"How did iPhone sales perform?"**.
-   - Observe immediate refusal statement stating iPhone is not present in the dataset, listing available categories.
-
-6. **Scenario 6 — Overstocked & Slow-Moving Action**:
-   - Ask **"Show me overstocked products."**.
-   - Inspect recommended stock reallocation between Store A (Downtown Flagship) and Store D (Westside Center).
-
----
 
 ## 📄 License & Attribution
 NexusTiQ 24 Hackathon Submission — Track: Retail (`TRACK_ID=PS03`). Built with Python, FastAPI, Pandas, and Google Gemini API.
