@@ -1,0 +1,61 @@
+product_id,product_name,category,price,cost,supplier,lead_time_days
+P101,Wireless Mouse,Electronics,29.99,14.0,Supplier TechA,3
+P102,Bluetooth Headphones,Electronics,89.99,45.0,Supplier TechA,5
+P103,Mechanical Keyboard,Electronics,119.99,65.0,Supplier TechB,4
+P104,USB-C Hub,Electronics,34.99,15.0,Supplier TechB,3
+P105,Smart Watch,Electronics,199.99,110.0,Supplier TechA,7
+P106,Portable Charger,Electronics,24.99,10.0,Supplier TechC,4
+P107,Noise Canceling Earbuds,Electronics,149.99,75.0,Supplier TechA,5
+P108,HD Webcam,Electronics,59.99,28.0,Supplier TechB,3
+P109,Ergonomic Mousepad,Electronics,14.99,4.5,Supplier TechC,2
+P110,Dual Monitor Stand,Electronics,49.99,22.0,Supplier TechC,6
+P111,4K Monitor,Electronics,299.99,180.0,Supplier TechA,7
+P112,LED Desk Lamp,Electronics,39.99,18.0,Supplier TechC,4
+P113,Cotton T-Shirt,Apparel,19.99,7.0,Supplier ClothsX,4
+P114,Denim Jeans,Apparel,49.99,20.0,Supplier ClothsX,5
+P115,Running Shoes,Apparel,79.99,35.0,Supplier Sportify,6
+P116,Wool Hoodie,Apparel,59.99,25.0,Supplier ClothsX,5
+P117,Leather Belt,Apparel,29.99,10.0,Supplier ClothsY,3
+P118,Athletic Shorts,Apparel,24.99,9.0,Supplier Sportify,4
+P119,Formal Shirt,Apparel,39.99,16.0,Supplier ClothsY,5
+P120,Winter Coat,Apparel,129.99,55.0,Supplier ClothsX,8
+P121,Canvas Sneakers,Apparel,44.99,18.0,Supplier Sportify,5
+P122,Casual Socks 3-Pack,Apparel,12.99,4.0,Supplier ClothsY,2
+P123,Summer Dress,Apparel,49.99,21.0,Supplier ClothsX,4
+P124,Silk Scarf,Apparel,24.99,8.0,Supplier ClothsY,3
+P125,Organic Coffee Beans,Grocery,14.99,6.5,Supplier FreshG,2
+P126,Green Tea Pack,Grocery,8.99,3.5,Supplier FreshG,2
+P127,Protein Bars 6-Pack,Grocery,11.99,5.0,Supplier NutriFit,3
+P128,Almond Milk 1L,Grocery,4.49,1.8,Supplier FreshG,2
+P129,Dark Chocolate 85%,Grocery,3.99,1.5,Supplier SweetCo,2
+P130,Dried Fruit Mix,Grocery,6.99,2.8,Supplier FreshG,3
+P131,Energy Drink 4-Pack,Grocery,9.99,4.2,Supplier NutriFit,2
+P132,Sparkling Water 12-Pack,Grocery,7.99,3.0,Supplier FreshG,3
+P133,Oatmeal Oats 1kg,Grocery,5.49,2.1,Supplier FreshG,2
+P134,Extra Virgin Olive Oil,Grocery,12.99,6.0,Supplier FreshG,4
+P135,Whole Grain Bread,Grocery,3.99,1.2,Supplier BakeryX,1
+P136,Organic Honey Jar,Grocery,9.49,4.0,Supplier FreshG,3
+P137,Stainless Travel Mug,Home Goods,22.99,9.0,Supplier HomePlus,4
+P138,Ceramic Plate Set,Home Goods,39.99,16.0,Supplier HomePlus,5
+P139,Non-Stick Frying Pan,Home Goods,34.99,14.0,Supplier ChefGear,4
+P140,Scented Candle,Home Goods,16.99,6.0,Supplier HomePlus,3
+P141,Microfiber Towel 4-Pack,Home Goods,18.99,7.0,Supplier HomePlus,3
+P142,Smart Wi-Fi Plug,Home Goods,15.99,6.0,Supplier TechB,3
+P143,Water Filter Pitcher,Home Goods,27.99,11.0,Supplier HomePlus,4
+P144,Air Purifier Filter,Home Goods,29.99,12.0,Supplier HomePlus,5
+P145,Throw Pillow,Home Goods,19.99,7.5,Supplier HomePlus,3
+P146,Wall Clock,Home Goods,24.99,9.5,Supplier HomePlus,4
+P147,Storage Bins 3-Pack,Home Goods,29.99,12.0,Supplier HomePlus,4
+P148,Table Runner,Home Goods,14.99,5.0,Supplier HomePlus,3
+P149,Facial Cleanser,Beauty & Health,18.99,7.5,Supplier BeautyGlow,3
+P150,Moisturizing Cream,Beauty & Health,24.99,10.0,Supplier BeautyGlow,3
+P151,Sunscreen SPF 50,Beauty & Health,15.99,6.0,Supplier BeautyGlow,3
+P152,Shampoo & Conditioner,Beauty & Health,16.99,6.5,Supplier BeautyGlow,4
+P153,Hand Sanitizer 5-Pack,Beauty & Health,9.99,3.5,Supplier PharmaCare,2
+P154,Vitamin C Serum,Beauty & Health,29.99,11.0,Supplier BeautyGlow,4
+P155,Electric Toothbrush,Beauty & Health,49.99,21.0,Supplier PharmaCare,5
+P156,Lip Balm Set,Beauty & Health,8.99,3.0,Supplier BeautyGlow,2
+P157,Herbal Body Soap,Beauty & Health,5.99,2.0,Supplier BeautyGlow,2
+P158,Body Lotion 500ml,Beauty & Health,14.99,5.5,Supplier BeautyGlow,3
+P159,Ionic Hair Dryer,Beauty & Health,59.99,26.0,Supplier TechB,5
+P160,Foot Relief Cream,Beauty & Health,11.99,4.5,Supplier PharmaCare,3
